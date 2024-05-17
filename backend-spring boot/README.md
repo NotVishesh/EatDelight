@@ -1,4 +1,4 @@
-# Zosh Food
+# Eat Delight
 
 1. **User:**
     - ID (Auto-generated)
